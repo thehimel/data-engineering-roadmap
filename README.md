@@ -95,9 +95,10 @@ Professional certifications to validate your skills and advance your career. Org
 
 ### ☁️ AWS (Amazon Web Services)
 
-| Certification                              | Level     | Link                                                                                    |
-|--------------------------------------------|-----------|-----------------------------------------------------------------------------------------|
-| 🏆 **Certified Data Engineer - Associate** | Associate | [View Details](https://aws.amazon.com/certification/certified-data-engineer-associate/) |
+| Certification/Resource                        | Type          | Link                                                                                                                              |
+|-----------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 🏆 **Certified Data Engineer - Associate**    | Certification | [View Details](https://aws.amazon.com/certification/certified-data-engineer-associate/)                                           |
+| 📚 **Data Engineering on AWS Learning Plans** | Learning Plan | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
 
 ### 🔵 Google Cloud Platform
 
