@@ -8,43 +8,26 @@
 
 ## Technologies
 
-* Programming Languages
-  * Python
-* Processing Frameworks
-  * PySpark
-* Databases
-  * Postgres
-  * SQLite
-* Operating Systems
-  * Linux
-* Cloud Service Providers
-  * AWS
-  * GCP
-  * Azure
-* Orchestration
-  * Airflow
-* Compute
-  * Databricks
-  * Snowflake
-* CI/CD
-  * GitHub Actions
-  * Sonarqube
-  * SonarCloud
-* Streaming
-  * Kafka
-* Containerization
-  * Docker
-  * Kubernetes
-* Infrastructure as Code
-  * Terraform
-* Monitoring
-  * Datadog
-
-### Advanced
-
-* AWS Glue
-* AWS EMR
-* Power BI
+| Category                       | Technology/Tool                                                   |
+|--------------------------------|-------------------------------------------------------------------|
+| **Programming Languages**      | **Python**, **SQL**, Java, Scala                                  |
+| **Processing Frameworks**      | **Spark (PySpark)**, Flink, Apache Beam, AWS EMR                  |
+| **Databases**                  | **PostgreSQL**, MySQL, **MongoDB**, Cassandra, DynamoDB, BigTable |
+| **Data Warehouses**            | **Snowflake**, **BigQuery**, Redshift, Databricks                 |
+| **Operating Systems**          | Linux                                                             |
+| **Cloud Service Providers**    | **AWS**, **GCP**, Azure                                           |
+| **Orchestration**              | **Airflow**, Prefect, Dagster                                     |
+| **Streaming**                  | **Kafka**, Kinesis, Pub/Sub, Flink                                |
+| **Containerization**           | **Docker**, **Kubernetes**                                        |
+| **Infrastructure as Code**     | **Terraform**, CloudFormation, Pulumi                             |
+| **CI/CD**                      | **GitHub Actions**, Jenkins, GitLab CI, SonarQube, SonarCloud     |
+| **Version Control**            | Git                                                               |
+| **Data Formats**               | **Parquet**, Avro, ORC, JSON                                      |
+| **Monitoring & Observability** | Datadog, **Prometheus**, Grafana, CloudWatch                      |
+| **Data Quality & Testing**     | Great Expectations, **dbt**                                       |
+| **Message Queues**             | **RabbitMQ**, Amazon SQS                                          |
+| **ETL/Data Integration**       | **AWS Glue**                                                      |
+| **Data Visualization/BI**      | **Power BI**                                                      |
 
 ## Certifications
 
