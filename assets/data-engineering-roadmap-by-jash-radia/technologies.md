@@ -22,17 +22,17 @@
       <td>Hands-on experience required</td>
     </tr>
     <tr>
-      <td>SQL</td>
+      <td><b>SQL</b></td>
       <td>Hands-on experience required</td>
     </tr>
     <tr>
       <td>Programming</td>
-      <td>Python</td>
+      <td><b>Python</b></td>
       <td>Hands-on experience required</td>
     </tr>
     <tr>
       <td>Operating System</td>
-      <td>Linux</td>
+      <td><b>Linux</b></td>
       <td>Fundamental knowledge</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
     <tr>
       <td rowspan="5"><strong>Distributed Systems</strong></td>
       <td>Processing Framework</td>
-      <td>Spark with Python</td>
+      <td><b>Spark with Python</b></td>
       <td>Course and hands-on practice</td>
     </tr>
     <tr>
@@ -91,15 +91,15 @@
     <tr>
       <td rowspan="7"><strong>Cloud Platforms</strong></td>
       <td rowspan="3">Cloud Provider</td>
-      <td>AWS</td>
+      <td><b>AWS</b></td>
       <td>Amazon Web Services</td>
     </tr>
     <tr>
-      <td>GCP</td>
+      <td><b>GCP</b></td>
       <td>Google Cloud Platform</td>
     </tr>
     <tr>
-      <td>Azure</td>
+      <td><b>Azure</b></td>
       <td>Microsoft Azure</td>
     </tr>
     <tr>
@@ -122,16 +122,16 @@
     <tr>
       <td rowspan="11"><strong>Must Learn Tools</strong></td>
       <td>Orchestration</td>
-      <td>Airflow</td>
+      <td><b>Airflow</b></td>
       <td>Workflow orchestration</td>
     </tr>
     <tr>
       <td rowspan="2">Compute</td>
-      <td>Databricks</td>
+      <td><b>Databricks</b></td>
       <td>Data analytics platform</td>
     </tr>
     <tr>
-      <td>Snowflake</td>
+      <td><b>Snowflake</b></td>
       <td>Cloud data platform</td>
     </tr>
     <tr>
@@ -154,21 +154,21 @@
     </tr>
     <tr>
       <td rowspan="2">CI/CD</td>
-      <td>Jenkins</td>
+      <td><b>Jenkins</b></td>
       <td>Continuous integration</td>
     </tr>
     <tr>
-      <td>Sonarqube</td>
+      <td><b>Sonarqube</b></td>
       <td>Code quality analysis</td>
     </tr>
     <tr>
       <td>Streaming</td>
-      <td>Kafka</td>
+      <td><b>Kafka</b></td>
       <td>Real-time data streaming</td>
     </tr>
     <tr>
       <td>Containers</td>
-      <td>Docker</td>
+      <td><b>Docker</b></td>
       <td>Containerization platform</td>
     </tr>
     <tr>
@@ -220,7 +220,7 @@
     </tr>
     <tr>
       <td>Containers</td>
-      <td>Kubernetes</td>
+      <td><b>Kubernetes</b></td>
       <td>Container orchestration</td>
     </tr>
   </tbody>
