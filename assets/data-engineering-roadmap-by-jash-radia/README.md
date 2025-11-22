@@ -1,7 +1,7 @@
 # Data Engineering Roadmap
 
-This roadmap visualizes the complete learning path for data engineering, from prerequisites through core tools and projects.
-[This diagram is based on the Data Engineering Roadmap by Jash Radia](index.pdf)
+* This roadmap visualizes the complete learning path for data engineering, from prerequisites through core tools and projects.
+* [This diagram is based on the Data Engineering Roadmap by Jash Radia](index.pdf)
 
 ## Roadmap Diagram
 
