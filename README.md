@@ -18,6 +18,7 @@ resources**
 - [🎓 Certifications](#-certifications)
 - [📚 Resources](#-resources)
 - [📖 References](#-references)
+- [💼 Interview Experiences](#-interview-experiences)
 
 ---
 
@@ -165,6 +166,21 @@ Professional certifications to validate your skills and advance your career. Org
 | 📊 **DataCamp**  | [Which is the Best Snowflake Certification For 2025?](https://www.datacamp.com/blog/best-snowflake-certification)            | 2025 |
 | 📊 **DataCamp**  | [Databricks Certifications In 2025: The Complete Guide](https://www.datacamp.com/blog/databricks-certifications)             | 2025 |
 | 💼 **Skillsoft** | [20+ Top-Paying IT Certifications for 2025](https://www.skillsoft.com/blog/top-paying-it-certifications)                     | 2025 |
+
+## 💼 Interview Experiences
+
+Real-world interview experiences from data engineers who successfully landed roles at top tech companies. Learn from
+their journeys, preparation strategies, and insights.
+
+### 🎥 Video Interviews
+
+| Interview Experience                                                             | Creator    | Note                                     |
+|----------------------------------------------------------------------------------|------------|------------------------------------------|
+| 🎤 **[Google Data Engineer Interview Experience](https://youtu.be/2atyplJK8I8)** | Data Depth | Leetcode Medium, Hackerrank Advanced SQL |
+| 🎤 **[Google Data Engineer Interview Experience](https://youtu.be/ZNg6cFcBISw)** | Jash Radia |                                          |
+
+> 💡 **Tip:** Watch these interviews to understand the interview format, types of questions asked, and how to prepare
+> effectively for data engineering roles at top companies.
 
 ---
 
