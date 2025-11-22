@@ -8,20 +8,39 @@
 
 ## Technologies
 
-## Essential
+* Programming Languages
+  * Python
+* Processing Frameworks
+  * PySpark
+* Databases
+  * Postgres
+  * SQLite
+* Operating Systems
+  * Linux
+* Cloud Service Providers
+  * AWS
+  * GCP
+  * Azure
+* Orchestration
+  * Airflow
+* Compute
+  * Databricks
+  * Snowflake
+* CI/CD
+  * GitHub Actions
+  * Sonarqube
+  * SonarCloud
+* Streaming
+  * Kafka
+* Containerization
+  * Docker
+  * Kubernetes
+* Infrastructure as Code
+  * Terraform
+* Monitoring
+  * Datadog
 
-* Python
-* SQL
-* Postgres
-* SQLite
-* Apache Airflow
-* Apache Spark
-* Snowflake | Databricks
-* Kafka
-* AWS S3
-* Docker
-
-## Advanced
+### Advanced
 
 * AWS Glue
 * AWS EMR
