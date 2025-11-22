@@ -29,6 +29,8 @@
 | **ETL/Data Integration**       | **AWS Glue**                                                      |
 | **Data Visualization/BI**      | **Power BI**                                                      |
 
+> **Note:** Bold technologies indicate preferred options.
+
 ## Certifications
 
 ### AWS
