@@ -100,6 +100,11 @@ Professional certifications to validate your skills and advance your career. Org
 | 🏆 **Certified Data Engineer - Associate**    | Certification | [View Details](https://aws.amazon.com/certification/certified-data-engineer-associate/)                                           |
 | 📚 **Data Engineering on AWS Learning Plans** | Learning Plan | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
 
+#### Courses
+
+* [5H Johnny Chivers, YouTube AWS Certified Data Engineer - Associate (DEA-C01)](https://youtu.be/6G0bLDIcO7Y)
+  * [GitHub - hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice](https://github.com/johnny-chivers/hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice)
+
 #### Resources
 
 * [Denis Burakov - How I Prepared for the AWS Data Engineer Associate Exam (And What I’d Do Differently)](https://aws.plainenglish.io/how-i-prepared-for-the-aws-data-engineer-associate-exam-and-what-id-do-differently-3425365b46d4)
