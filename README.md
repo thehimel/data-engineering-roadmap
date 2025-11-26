@@ -126,6 +126,13 @@ Professional certifications to validate your skills and advance your career. Org
 | 🏆 **Data Engineer Associate**    | Associate    | [View Details](https://www.databricks.com/learn/certification/data-engineer-associate)    |
 | 🏆 **Data Engineer Professional** | Professional | [View Details](https://www.databricks.com/learn/certification/data-engineer-professional) |
 
+#### Courses
+
+* [5H Udemy - Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/)
+* [Udemy - Practice Exams: Databricks Certified Data Engineer Associate](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)
+* [4H Udemy Course - Databricks Certified Data Engineer Professional - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-professional/)
+* [Udemy - Practice Exams: Databricks Data Engineer Professional](https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/)
+
 ### 🌟 Astronomer (Apache Airflow)
 
 | Certification                        | Level        | Link                                                                                           |
