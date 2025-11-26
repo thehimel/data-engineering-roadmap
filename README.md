@@ -100,6 +100,13 @@ Professional certifications to validate your skills and advance your career. Org
 | 🏆 **Certified Data Engineer - Associate**    | Certification | [View Details](https://aws.amazon.com/certification/certified-data-engineer-associate/)                                           |
 | 📚 **Data Engineering on AWS Learning Plans** | Learning Plan | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
 
+#### Resources
+
+* [Denis Burakov - How I Prepared for the AWS Data Engineer Associate Exam (And What I’d Do Differently)](https://aws.plainenglish.io/how-i-prepared-for-the-aws-data-engineer-associate-exam-and-what-id-do-differently-3425365b46d4)
+* [AWS Skill Builder - A Day in the Life of a Data Engineer](https://skillbuilder.aws/learn/U77D5JZK4B/a-day-in-the-life-of-a-data-engineer/PV2F9YXYPN)
+* [Data Engineering on AWS - Foundations](https://skillbuilder.aws/learn/6BP61KB1FJ/data-engineering-on-aws--foundations/)
+* [Exam Prep Plan: AWS Certified Data Engineer - Associate (DEA-C01 - English)](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/)
+
 ### 🔵 Google Cloud Platform
 
 | Certification                      | Level        | Link                                                                                                                    |
