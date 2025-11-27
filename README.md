@@ -43,14 +43,12 @@ proficient data engineer.
 
 ### 📺 Video Roadmaps
 
-| Roadmap                                                                      | Source                            | Description                                                                         |
-|------------------------------------------------------------------------------|-----------------------------------|-------------------------------------------------------------------------------------|
-| 🎥 **[God Tier Data Engineering Roadmap](https://youtu.be/WgCavqDntlQ)**     | Jash Radia (Google Data Engineer) | Comprehensive roadmap by a Google Data Engineer covering the complete learning path |
-| 📄 **[Detailed Roadmap PDF](assets/data-engineering-roadmap-by-jash-radia)** | Jash Radia                        | Visual roadmap diagram with prerequisites, tools, and projects                      |
-| 🎥 **[How I would learn Data Engineering](https://youtu.be/VSxF0bb-JH4)**    | Jayzern                           | Alternative learning approach if starting over                                      |
-
-> 💡 **Tip:** Start with the video roadmaps to get an overview, then dive into the detailed PDF for a structured learning
-> path.
+| Roadmap                                                                                             | Source                            |
+|-----------------------------------------------------------------------------------------------------|-----------------------------------|
+| 🎥 **[The ONLY Data Engineer Certifications You Need to Find a Job](https://youtu.be/pYYtYG6hU9w)** | Jash Radia (Google Data Engineer) |
+| 🎥 **[God Tier Data Engineering Roadmap](https://youtu.be/WgCavqDntlQ)**                            | Jash Radia (Google Data Engineer) |
+| 📄 **[Detailed Roadmap PDF](assets/data-engineering-roadmap-by-jash-radia)**                        | Jash Radia                        |
+| 🎥 **[How I would learn Data Engineering](https://youtu.be/VSxF0bb-JH4)**                           | Jayzern                           |
 
 ---
 
@@ -91,73 +89,149 @@ A curated list of essential technologies organized by category. **Bold** items i
 
 ## 🎓 Certifications
 
-* [The ONLY Data Engineer Certifications You Need to Find a Job by Jash Radia](https://youtu.be/pYYtYG6hU9w?si=OpXuEBTuwmd_917_)
-
 Professional certifications to validate your skills and advance your career. Organized by provider:
 
 ### ☁️ AWS (Amazon Web Services)
 
-| Certification/Resource                        | Type          | Link                                                                                                                              |
-|-----------------------------------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 🏆 **Certified Data Engineer - Associate**    | Certification | [View Details](https://aws.amazon.com/certification/certified-data-engineer-associate/)                                           |
-| 📚 **Data Engineering on AWS Learning Plans** | Learning Plan | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
+#### 🏆 AWS Certified Solutions Architect - Associate (Foundation)
 
-#### Courses
+**Certification:** [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
-* [5H Johnny Chivers, YouTube AWS Certified Data Engineer - Associate (DEA-C01)](https://youtu.be/6G0bLDIcO7Y)
-  * [GitHub - hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice](https://github.com/johnny-chivers/hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice)
+**Practice Exams:**
+- 📝 **[AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03)** - Instructor: Jon Bonso
 
-#### Resources
+#### 🏆 AWS Certified Data Engineer - Associate (Core)
 
-* [Denis Burakov - How I Prepared for the AWS Data Engineer Associate Exam (And What I’d Do Differently)](https://aws.plainenglish.io/how-i-prepared-for-the-aws-data-engineer-associate-exam-and-what-id-do-differently-3425365b46d4)
-* [AWS Skill Builder - A Day in the Life of a Data Engineer](https://skillbuilder.aws/learn/U77D5JZK4B/a-day-in-the-life-of-a-data-engineer/PV2F9YXYPN)
-* [Data Engineering on AWS - Foundations](https://skillbuilder.aws/learn/6BP61KB1FJ/data-engineering-on-aws--foundations/)
-* [Exam Prep Plan: AWS Certified Data Engineer - Associate (DEA-C01 - English)](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/)
+**Certification:** [AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate/)
 
-### 🔵 Google Cloud Platform
+**Exam Prep:**
+- 📚 **[Exam Prep Plan: AWS Certified Data Engineer - Associate (DEA-C01)](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/)**
 
-| Certification                      | Level        | Link                                                                                                                    |
-|------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
-| 🏆 **Professional Data Engineer**  | Professional | [View Details](https://cloud.google.com/learn/certification/data-engineer)                                              |
-| 📚 **Coursera Preparation Course** | Training     | [Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering) |
+**Courses:**
+- 🎥 **[AWS Certified Data Engineer - Associate (DEA-C01)](https://youtu.be/6G0bLDIcO7Y)** - 5 Hours | Complete preparation course by Johnny Chivers
+- 🔗 **[GitHub - Hands-on Practice](https://github.com/johnny-chivers/hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice)** - Hands-on labs and practice exercises
 
-### 🔷 Microsoft Azure
+**Articles & Guides:**
+- 📖 **[How I Prepared for the AWS Data Engineer Associate Exam](https://aws.plainenglish.io/how-i-prepared-for-the-aws-data-engineer-associate-exam-and-what-id-do-differently-3425365b46d4)** - Denis Burakov | First-hand experience and preparation tips
 
-| Certification                         | Level     | Link                                                                                                         |
-|---------------------------------------|-----------|--------------------------------------------------------------------------------------------------------------|
-| 🏆 **Fabric Data Engineer Associate** | Associate | [View Details](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/) |
+#### 🏆 AWS Certified Solutions Architect - Professional (Optional)
 
-### ❄️ Snowflake
+**Certification:** [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
 
-| Certification                           | Level    | Link                                                                                             |
-|-----------------------------------------|----------|--------------------------------------------------------------------------------------------------|
-| 🏆 **SnowPro® Advanced: Data Engineer** | Advanced | [View Details](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer-C02/) |
+#### 📚 Common AWS Data Engineering Resources
+
+| Resource | Type | Link |
+|----------|------|------|
+| 📚 **Data Engineering on AWS Learning Plans** | Learning Plan (with labs) | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
+| 📚 **Data Engineering on AWS - Foundations** | Course | [View Details](https://skillbuilder.aws/learn/6BP61KB1FJ/data-engineering-on-aws--foundations/) |
+| 📚 **A Day in the Life of a Data Engineer** | Course | [View Details](https://skillbuilder.aws/learn/U77D5JZK4B/a-day-in-the-life-of-a-data-engineer/PV2F9YXYPN) |
+
+### 🌟 Apache Airflow
+
+#### 🏆 Apache Airflow 3 Fundamentals (Mandatory)
+
+**Certification:** [Apache Airflow 3 Fundamentals](https://academy.astronomer.io/certification-exam-apache-airflow-3-fundamentals)
+
+**Courses:**
+- 📚 **[Introduction to Apache Airflow in Python](https://campus.datacamp.com/courses/introduction-to-apache-airflow-in-python)**
+
+**Practice Exams:**
+- 📝 **[Apache Airflow Fundamentals Exam: mastering from zero](https://www.udemy.com/course/apache-airflow-interview-questions-for-mastering-from-zero/)**
+
+#### 🏆 DAG Authoring (Airflow 3) (Optional)
+
+**Certification:** [DAG Authoring (Airflow 3)](https://academy.astronomer.io/certification-exam-dag-authoring-airflow-3)
+
+**Practice Exams:**
+- 📝 **[Apache Airflow DAG Authoring exam questions](https://www.udemy.com/course/apache-airflow-dag-authoring-exam-questions/)**
+
+### ⚡ Apache Spark
+
+#### 🏆 Databricks Certified Associate Developer for Apache Spark (Mandatory)
+
+**Certification:** [Databricks Certified Associate Developer for Apache Spark](https://www.databricks.com/learn/certification/apache-spark-developer-associate)
+
+**Courses:**
+- 📚 **[Apache Spark™ Programming with Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)**
+
+**Practice Exams:**
+- 📝 **[Databricks Certified Developer for Spark Practice Exams 2025](https://www.udemy.com/course/databricks-certified-developer-for-apache-spark-30-practice-exams/)**
 
 ### 🔷 Databricks
 
-| Certification                     | Level        | Link                                                                                      |
-|-----------------------------------|--------------|-------------------------------------------------------------------------------------------|
-| 🏆 **Data Engineer Associate**    | Associate    | [View Details](https://www.databricks.com/learn/certification/data-engineer-associate)    |
-| 🏆 **Data Engineer Professional** | Professional | [View Details](https://www.databricks.com/learn/certification/data-engineer-professional) |
+#### 🏆 Data Engineer Associate (Optional)
 
-#### Courses
+**Certification:** [Data Engineer Associate](https://www.databricks.com/learn/certification/data-engineer-associate)
 
-* [5H Udemy - Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/)
-* [Udemy - Practice Exams: Databricks Certified Data Engineer Associate](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)
-* [4H Udemy Course - Databricks Certified Data Engineer Professional - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-professional/)
-* [Udemy - Practice Exams: Databricks Data Engineer Professional](https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/)
+**Courses:**
+- 🎥 **[Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/)** - 5 Hours
 
-### 🌟 Astronomer (Apache Airflow)
+**Practice Exams:**
+- 📝 **[Practice Exams: Databricks Certified Data Engineer Associate](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)**
 
-| Certification                        | Level        | Link                                                                                           |
-|--------------------------------------|--------------|------------------------------------------------------------------------------------------------|
-| 🏆 **Apache Airflow 3 Fundamentals** | Fundamentals | [View Details](https://academy.astronomer.io/certification-exam-apache-airflow-3-fundamentals) |
-| 🏆 **DAG Authoring (Airflow 3)**     | Advanced     | [View Details](https://academy.astronomer.io/certification-exam-dag-authoring-airflow-3)       |
+#### 🏆 Data Engineer Professional (Optional)
 
-> 💡 **Certification Strategy:** Start with cloud platform certifications (AWS/GCP/Azure), then specialize with data
-> platform certifications (Snowflake/Databricks) based on your career goals.
+**Certification:** [Data Engineer Professional](https://www.databricks.com/learn/certification/data-engineer-professional)
 
----
+**Courses:**
+- 🎥 **[Databricks Certified Data Engineer Professional - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-professional/)** - 4 Hours
+
+**Practice Exams:**
+- 📝 **[Practice Exams: Databricks Data Engineer Professional](https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/)**
+
+### 🔵 Google Cloud Platform
+
+#### 🏆 Associate Cloud Engineer (Foundation)
+
+**Certification:** [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer)
+
+#### 🏆 Professional Data Engineer (Core)
+
+**Certification:** [Professional Data Engineer](https://cloud.google.com/learn/certification/data-engineer)
+
+**Courses:**
+- 📚 **[Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)**
+
+### 🔷 Microsoft Azure
+
+#### 🏆 Fabric Data Engineer Associate (Core)
+
+**Certification:** [Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/)
+
+#### 🏆 Azure Solutions Architect Expert (Foundation) (Optional)
+
+**Certification:** [Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/credentials/certifications/azure-solutions-architect/)
+
+### ❄️ Snowflake (Optional)
+
+#### 🏆 SnowPro® Core
+
+**Certification:** [SnowPro® Core](https://learn.snowflake.com/en/certifications/snowpro-core/)
+
+#### 🏆 SnowPro® Advanced: Data Engineer
+
+**Certification:** [SnowPro® Advanced: Data Engineer](https://learn.snowflake.com/en/certifications/snowpro-advanced-dataengineer-C02/)
+
+#### 📚 Common Snowflake Resources
+
+- 🎥 **[How to Learn Snowflake in 2025? (complete roadmap)](https://youtu.be/7nzDoH-SOLw)****
+
+## 💡 Notes
+
+### 🎯 Certification Strategy
+
+#### **Recommended Learning Path:**
+
+1. **Foundation** → Start with cloud platform certifications (AWS/GCP/Azure)
+2. **Specialization** → Then pursue data platform certifications (Snowflake/Databricks) based on your career goals
+3. **Advanced** → Consider professional-level certifications after gaining experience
+
+### 📌 Key Points
+
+- **Cloud First:** Master one cloud platform (AWS, GCP, or Azure) before moving to specialized platforms
+- **Hands-on Practice:** Combine certifications with real-world projects and hands-on labs
+- **Career Alignment:** Choose certifications that align with your target roles and industry requirements
+- **Continuous Learning:** Stay updated with new certifications and platform updates
 
 ## 📚 Resources
 
@@ -168,13 +242,12 @@ Professional certifications to validate your skills and advance your career. Org
 
 ### 📖 Learning Path
 
-1. **Prerequisites** → Master SQL, Python, and Linux fundamentals
-2. **Core Concepts** → Learn data warehousing, data lakes, and data architecture
-3. **Distributed Systems** → Understand Spark, Hadoop ecosystem
-4. **Cloud Platforms** → Choose AWS, GCP, or Azure and get certified
-5. **Essential Tools** → Master Airflow, Kafka, Docker, and CI/CD
-6. **Projects** → Build end-to-end data pipelines
-7. **Specialization** → Deep dive into specific tools and become an SME
+* Master Python and SQL
+* Learn one cloud service provider very good i.e. AWS.
+* Get Certifications
+  * Cloud
+  * Airflow
+  * Spark from Databricks
 
 ---
 
@@ -183,7 +256,7 @@ Professional certifications to validate your skills and advance your career. Org
 ### 📰 Articles & Guides
 
 | Source           | Article                                                                                                                      | Year |
-|------------------|------------------------------------------------------------------------------------------------------------------------------|------|
+|------------------|----------------------------------------------------------------------------------------------------------------------------- |------|
 | 📚 **Coursera**  | [5 Data Engineer Certifications: Which One Is Right For You?](https://www.coursera.org/articles/data-engineer-certification) | 2025 |
 | 📊 **DataCamp**  | [Which is the Best Snowflake Certification For 2025?](https://www.datacamp.com/blog/best-snowflake-certification)            | 2025 |
 | 📊 **DataCamp**  | [Databricks Certifications In 2025: The Complete Guide](https://www.datacamp.com/blog/databricks-certifications)             | 2025 |
