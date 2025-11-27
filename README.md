@@ -91,6 +91,8 @@ A curated list of essential technologies organized by category. **Bold** items i
 
 ## 🎓 Certifications
 
+* [The ONLY Data Engineer Certifications You Need to Find a Job by Jash Radia](https://youtu.be/pYYtYG6hU9w?si=OpXuEBTuwmd_917_)
+
 Professional certifications to validate your skills and advance your career. Organized by provider:
 
 ### ☁️ AWS (Amazon Web Services)
