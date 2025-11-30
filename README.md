@@ -43,12 +43,12 @@ proficient data engineer.
 
 ### 📺 Video Roadmaps
 
-| Roadmap                                                                                             | Source                            |
-|-----------------------------------------------------------------------------------------------------|-----------------------------------|
-| 🎥 **[The ONLY Data Engineer Certifications You Need to Find a Job](https://youtu.be/pYYtYG6hU9w)** | Jash Radia (Google Data Engineer) |
-| 🎥 **[God Tier Data Engineering Roadmap](https://youtu.be/WgCavqDntlQ)**                            | Jash Radia (Google Data Engineer) |
-| 📄 **[Detailed Roadmap PDF](assets/data-engineering-roadmap-by-jash-radia)**                        | Jash Radia                        |
-| 🎥 **[How I would learn Data Engineering](https://youtu.be/VSxF0bb-JH4)**                           | Jayzern                           |
+| Roadmap                                                                                         | Source                            |
+|-------------------------------------------------------------------------------------------------|-----------------------------------|
+| 🎥 [The ONLY Data Engineer Certifications You Need to Find a Job](https://youtu.be/pYYtYG6hU9w) | Jash Radia (Google Data Engineer) |
+| 🎥 [God Tier Data Engineering Roadmap](https://youtu.be/WgCavqDntlQ)                            | Jash Radia (Google Data Engineer) |
+| 📄 [Detailed Roadmap PDF](assets/data-engineering-roadmap-by-jash-radia)                        | Jash Radia                        |
+| 🎥 [How I would learn Data Engineering](https://youtu.be/VSxF0bb-JH4)                           | Jayzern                           |
 
 ---
 
@@ -100,7 +100,9 @@ Professional certifications to validate your skills and advance your career. Org
 
 **Practice Exams:**
 
-- 📝 **[AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03)** - Instructor: Jon Bonso
+-
+📝 [AWS Certified Solutions Architect Associate Practice Exams](https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c03) -
+Instructor: Jon Bonso
 
 #### 🏆 AWS Certified Data Engineer - Associate (Core)
 
@@ -108,17 +110,22 @@ Professional certifications to validate your skills and advance your career. Org
 
 **Exam Prep:**
 
-- 📚 **[Exam Prep Plan: AWS Certified Data Engineer - Associate (DEA-C01)](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/)**
+-
+📚 [Exam Prep Plan: AWS Certified Data Engineer - Associate (DEA-C01)](https://skillbuilder.aws/learning-plan/QYZWVSMX4B/exam-prep-plan-aws-certified-data-engineer--associate-deac01--english/)
 
 **Courses:**
 
-- 🎥 **[AWS Certified Data Engineer - Associate (DEA-C01)](https://youtu.be/6G0bLDIcO7Y)** - 5 Hours | Complete
+- 🎥 [AWS Certified Data Engineer - Associate (DEA-C01)](https://youtu.be/6G0bLDIcO7Y) - 5 Hours | Complete
   preparation course by Johnny Chivers
-- 🔗 **[GitHub - Hands-on Practice](https://github.com/johnny-chivers/hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice)** - Hands-on labs and practice exercises
+-
+🔗 [GitHub - Hands-on Practice](https://github.com/johnny-chivers/hands-on-aws-certified-data-engineer-associate-DEA-C01-Practice) -
+Hands-on labs and practice exercises
 
 **Articles & Guides:**
 
-- 📖 **[How I Prepared for the AWS Data Engineer Associate Exam](https://aws.plainenglish.io/how-i-prepared-for-the-aws-data-engineer-associate-exam-and-what-id-do-differently-3425365b46d4)** - Denis Burakov | First-hand experience and preparation tips
+-
+📖 [How I Prepared for the AWS Data Engineer Associate Exam](https://aws.plainenglish.io/how-i-prepared-for-the-aws-data-engineer-associate-exam-and-what-id-do-differently-3425365b46d4) -
+Denis Burakov | First-hand experience and preparation tips
 
 #### 🏆 AWS Certified Solutions Architect - Professional (Optional)
 
@@ -126,11 +133,11 @@ Professional certifications to validate your skills and advance your career. Org
 
 #### 📚 Common AWS Data Engineering Resources
 
-| Resource                                      | Type                      | Link                                                                                                                              |
-|-----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 📚 **Data Engineering on AWS Learning Plans** | Learning Plan (with labs) | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
-| 📚 **Data Engineering on AWS - Foundations**  | Course                    | [View Details](https://skillbuilder.aws/learn/6BP61KB1FJ/data-engineering-on-aws--foundations/)                                   |
-| 📚 **A Day in the Life of a Data Engineer**   | Course                    | [View Details](https://skillbuilder.aws/learn/U77D5JZK4B/a-day-in-the-life-of-a-data-engineer/PV2F9YXYPN)                         |
+| Resource                                  | Type                      | Link                                                                                                                              |
+|-------------------------------------------|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 📚 Data Engineering on AWS Learning Plans | Learning Plan (with labs) | [View Details](https://skillbuilder.aws/learning-plan/FYGBWGX6QJ/data-engineering-on-aws-learning-plans-includes-labs/7UPVWWCC45) |
+| 📚 Data Engineering on AWS - Foundations  | Course                    | [View Details](https://skillbuilder.aws/learn/6BP61KB1FJ/data-engineering-on-aws--foundations/)                                   |
+| 📚 A Day in the Life of a Data Engineer   | Course                    | [View Details](https://skillbuilder.aws/learn/U77D5JZK4B/a-day-in-the-life-of-a-data-engineer/PV2F9YXYPN)                         |
 
 ### 🌟 Apache Airflow
 
@@ -162,7 +169,8 @@ Professional certifications to validate your skills and advance your career. Org
 
 **Courses:**
 
-- 📚 **[Apache Spark™ Programming with Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)**
+- 📚 [Apache Spark™ Programming with Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)
+- 📚 [Udacity - Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002)
 
 **Practice Exams:**
 
@@ -176,11 +184,12 @@ Professional certifications to validate your skills and advance your career. Org
 
 **Courses:**
 
-- 🎥 **[Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/)** - 5 Hours
+- 🎥 [Databricks Certified Data Engineer Associate - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-associate/) -
+5 Hours
 
 **Practice Exams:**
 
-- 📝 **[Practice Exams: Databricks Certified Data Engineer Associate](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)**
+- 📝 [Practice Exams: Databricks Certified Data Engineer Associate](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)
 
 #### 🏆 Data Engineer Professional (Optional)
 
@@ -188,11 +197,12 @@ Professional certifications to validate your skills and advance your career. Org
 
 **Courses:**
 
-- 🎥 **[Databricks Certified Data Engineer Professional - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-professional/)** - 4 Hours
+- 🎥 [Databricks Certified Data Engineer Professional - Preparation](https://www.udemy.com/course/databricks-certified-data-engineer-professional/) -
+4 Hours
 
 **Practice Exams:**
 
-- 📝 **[Practice Exams: Databricks Data Engineer Professional](https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/)**
+- 📝 [Practice Exams: Databricks Data Engineer Professional](https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/)
 
 ### 🔵 Google Cloud Platform
 
@@ -206,7 +216,7 @@ Professional certifications to validate your skills and advance your career. Org
 
 **Courses:**
 
-- 📚 **[Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)**
+- 📚 [Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering)
 
 ### 🔷 Microsoft Azure
 
@@ -230,7 +240,7 @@ Professional certifications to validate your skills and advance your career. Org
 
 #### 📚 Common Snowflake Resources
 
-- 🎥 **[How to Learn Snowflake in 2025? (complete roadmap)](https://youtu.be/7nzDoH-SOLw)**
+- 🎥 [How to Learn Snowflake in 2025? (complete roadmap)](https://youtu.be/7nzDoH-SOLw)
 
 ## 💡 Notes
 
@@ -253,7 +263,7 @@ Professional certifications to validate your skills and advance your career. Org
 
 ### 🌐 Essential Websites
 
-- 🌟 **[Start Data Engineering](https://www.startdataengineering.com/)** - Comprehensive data engineering resources and
+- 🌟 [Start Data Engineering](https://www.startdataengineering.com/) - Comprehensive data engineering resources and
   guides
 
 ### 📖 Learning Path
@@ -283,10 +293,10 @@ their journeys, preparation strategies, and insights.
 
 ### 🎥 Video Interviews
 
-| Interview Experience                                                             | Creator    | Note                                     |
-|----------------------------------------------------------------------------------|------------|------------------------------------------|
-| 🎤 **[Google Data Engineer Interview Experience](https://youtu.be/2atyplJK8I8)** | Data Depth | Leetcode Medium, Hackerrank Advanced SQL |
-| 🎤 **[Google Data Engineer Interview Experience](https://youtu.be/ZNg6cFcBISw)** | Jash Radia |                                          |
+| Interview Experience                                                         | Creator    | Note                                     |
+|------------------------------------------------------------------------------|------------|------------------------------------------|
+| 🎤 [Google Data Engineer Interview Experience](https://youtu.be/2atyplJK8I8) | Data Depth | Leetcode Medium, Hackerrank Advanced SQL |
+| 🎤 [Google Data Engineer Interview Experience](https://youtu.be/ZNg6cFcBISw) | Jash Radia |                                          |
 
 > 💡 **Tip:** Watch these interviews to understand the interview format, types of questions asked, and how to prepare
 > effectively for data engineering roles at top companies.
