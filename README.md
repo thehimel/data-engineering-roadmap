@@ -93,6 +93,10 @@ Professional certifications to validate your skills and advance your career. Org
 
 ### ☁️ AWS (Amazon Web Services)
 
+![aws-certifications-2025.png](assets/images/aws-certifications-2025.png)
+
+Source: [Plan your AWS Certification Journey](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+
 #### 🏆 AWS Certified Solutions Architect - Associate (Foundation)
 
 **Certification:
