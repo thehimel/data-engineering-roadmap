@@ -194,6 +194,7 @@ Denis Burakov | First-hand experience and preparation tips
 **Practice Exams:**
 
 - 📝 [Practice Exams: Databricks Certified Data Engineer Associate](https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/)
+- 📝 [ExamCrest Data Engineer Associate free questions](https://examcrest.com/exam/databricks-dea/free-questions?utm_source=github&utm_campaign=thehimel-de-roadmap) - Free, no signup (full mock tests are paid)
 
 #### 🏆 Data Engineer Professional (Optional)
 
@@ -236,7 +237,11 @@ Denis Burakov | First-hand experience and preparation tips
 
 #### 🏆 SnowPro® Core
 
-**Certification:** [SnowPro® Core](https://learn.snowflake.com/en/certifications/snowpro-core/)
+**Certification:** [SnowPro® Core (COF-C03)](https://learn.snowflake.com/en/certifications/snowpro-core-c03/)
+
+**Practice Exams:**
+
+- 📝 [ExamCrest SnowPro Core free questions](https://examcrest.com/exam/snowpro-core/free-questions?utm_source=github&utm_campaign=thehimel-de-roadmap) - Free, no signup (full mock tests are paid)
 
 #### 🏆 SnowPro® Advanced: Data Engineer
 
